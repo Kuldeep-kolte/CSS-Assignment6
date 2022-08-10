@@ -105,19 +105,19 @@ button {
 }
 
 .card1 {
-    background-image: url('/Desert/pic-1.png');
+    background-image: url('Desert/pic-1.png');
 }
 
 .card2 {
-    background-image: url('/Desert/pic-2.png');
+    background-image: url('Desert/pic-2.png');
 }
 
 .card3 {
-    background-image: url('/Desert/pic-3.png');
+    background-image: url('Desert/pic-3.png');
 }
 
 .card4 {
-    background-image: url('/Desert/pic-4.png');
+    background-image: url('Desert/pic-4.png');
 }
 
 .card:hover {
